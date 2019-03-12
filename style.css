@@ -7,10 +7,10 @@ body
 {
 	margin:40px auto;
 	max-width:650px;
-	line-height:1.6;
-	font-size:18px;
-	color:#444;
+	line-height:1.4;
+	font-size:16px;
 	padding:0 10px;
+	background-color: #EEEEEE;
 }
 
 h1,h2,h3
@@ -21,4 +21,5 @@ h1,h2,h3
 blockquote
 {
 padding: 15px;
+border-bottom: 1px grey solid;
 }
